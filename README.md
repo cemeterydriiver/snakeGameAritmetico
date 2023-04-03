@@ -11,14 +11,11 @@ __O jogo Snake Aritmético tem as seguintes funcionalidades:__
 - O jogo termina quando a cobra colide com as paredes ou com seu próprio corpo.
 - A pontuação do jogador é exibida na parte superior da tela.
 
-
-
-
-
-
-
-
-
+## 🛠️Como executar a aplicação:
+__Para executar a aplicação em uma máquina local, siga as seguintes etapas:__
+1. Baixe o repositório em sua máquina local.
+2. Abra o arquivo "index.html" em um navegador de sua preferência.
+3. Jogue o jogo usando as teclas direcionais do teclado para controlar a cobra. Quando uma maçã aparecer na tela, resolva o problema aritmético exibido na parte inferior da tela e pressione o número correspondente à resposta correta.
 
 
 ## ✍️Autores
