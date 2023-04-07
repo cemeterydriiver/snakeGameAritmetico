@@ -1,23 +1,46 @@
-# snakeGameAritmetico🐍
-_Este repositório contém o código-fonte para o jogo Snake Aritmético. O jogo é uma variação do jogo clássico da cobrinha, onde o jogador controla uma cobra que se move em um campo de jogo. O objetivo do jogo é coletar maçãs e, conforme a cobra cresce, evitar colidir com as paredes ou com o próprio corpo da cobra._
+<!-- Badges session -->
+<p align="center">  
+  <!-- languages -->
+  <img src="https://img.shields.io/github/languages/count/pleiterson/snake-game-javascript?style=social" alt="Linguagens utilizadas">
+  <!-- repo size -->
+  <img src="https://img.shields.io/github/repo-size/Pleiterson/snake-game-javascript?style=social" alt="Tamanho do repositório">
+  <!-- last commit -->
+  <img src="https://img.shields.io/github/last-commit/Pleiterson/snake-game-javascript?style=social" alt="Último commit">
+  <!-- licence MIT -->
+  <img src="https://img.shields.io/github/license/Pleiterson/snake-game-javascript?style=social" alt="Licença MIT">
+</p>
 
-_No Snake Aritmético, o jogador precisa resolver problemas aritméticos para coletar maçãs. Os problemas são exibidos na tela e o jogador precisa selecionar a resposta correta para coletar a maçã correspondente._
+<!--Banner session-->
+<p align="center">
+  <img src="./assets/banner.png" alt="DIO" title="Digital Innovation One">
+</p>
 
-## ⚙️Funcionalidades:
-__O jogo Snake Aritmético tem as seguintes funcionalidades:__
-- A cobra se move na tela e pode ser controlada com as teclas direcionais do teclado.
-- Maçãs aparecem aleatoriamente na tela e o jogador deve coletá-las para marcar pontos.
-- Problemas aritméticos aparecem na parte inferior da tela e o jogador deve selecionar a resposta correta para coletar a maçã correspondente.
-- O jogo termina quando a cobra colide com as paredes ou com seu próprio corpo.
-- A pontuação do jogador é exibida na parte superior da tela.
+<!--About session-->
+<h1 align="center">Recriando o jogo da cobrinha com JavaScript<br>Digital Innovation One</h1>
 
-## 🛠️Como executar a aplicação:
-__Para executar a aplicação em uma máquina local, siga as seguintes etapas:__
-1. Baixe o repositório em sua máquina local.
-2. Abra o arquivo "index.html" em um navegador de sua preferência.
-3. Jogue o jogo usando as teclas direcionais do teclado para controlar a cobra. Quando uma maçã aparecer na tela, resolva o problema aritmético exibido na parte inferior da tela e pressione o número correspondente à resposta correta.
+Curso do Bootcamp HTML Web Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
+<img src="./assets/badge.png" title="Badge" width="70" height="70">
 
-## ✍️Autores
+Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma simples o clássico jogo da cobrinha (Game Snake) utilizando HTML, CSS e JavaScript.
 
-__- [@cemeterydriiver](https://www.github.com/cemeterydriiver)__
+<i>Depois vou codificá-lo de forma responsiva. Ainda falta algumas melhorias a serem realizadas, como contagem de tempo e de comida utilizada, e mostrar uma mensagem de Game Over ao invés do alert.</i>
+
+- [Projeto desenvolvido](https://game-snake.vercel.app/)
+
+<p align="center"><img src="./assets/projeto.gif" title="Game Snake - DIO"></p>
+<!-- <p align="center"><img src="./assets/projeto-responsivo.gif" title="Game Snake - DIO"></p><br> -->
+
+<h3>👨‍💻 Tecnologias utilizadas</h3>
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<br>
+
+<!--License session-->
+<h3>📝 Licença</h3>
+
+- Este projeto está sob a licença [MIT](./LICENSE).<br>
+
+<!--Bottom session-->
+<br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
