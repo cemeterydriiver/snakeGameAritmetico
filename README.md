@@ -20,3 +20,5 @@ Abra o arquivo “index.html” em um navegador de sua preferência.
 Jogue o jogo usando as teclas direcionais do teclado para controlar a cobra. Quando uma maçã aparecer na tela, resolva o problema aritmético exibido na parte inferior da tela e pressione o número correspondente à resposta correta.
 ✍️Autores
 - @cemeterydriiver
+
+https://cemeterydriiver.github.io/snakeGameAritmetico/
